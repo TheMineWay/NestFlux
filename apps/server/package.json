@@ -51,6 +51,6 @@
     "dotenv": "^16.4.7",
     "drizzle-kit": "^0.30.3",
     "typescript": "^5.7.3",
-    "vitest": "^2.1.8"
+    "vitest": "^2.1.9"
   }
 }
