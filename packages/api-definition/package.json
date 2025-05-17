@@ -35,7 +35,7 @@
   "dependencies": {
     "@shared/constants": "workspace:*",
     "@shared/models": "workspace:*",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "zod": "^3.24.2"
   }
 }
